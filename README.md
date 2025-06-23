@@ -1,4 +1,4 @@
-# AI foe Software Engineering – Week 4 Assignment 
+# AI for Software Engineering – Week 4 Assignment 
 
 **Theme:** *Building Intelligent Software Solution*
 **Course:** Software Engineering Power Learn Project  
