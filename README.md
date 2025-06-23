@@ -1,6 +1,6 @@
-# AI in Software Engineering – Week 4 Assignment 🚀
+# AI foe Software Engineering – Week 4 Assignment 
 
-**Theme:** *Building Intelligent Software Solutions*  
+**Theme:** *Building Intelligent Software Solution*
 **Course:** Software Engineering Power Learn Project  
 **Author:** AI Gurus  
 
@@ -18,7 +18,7 @@ Includes:
 - Q&A on AI code generation tools, supervised vs unsupervised learning, and bias mitigation.
 - Case study response on AIOps and software deployment efficiency.
 
- View the report in the `docs/Week4_Theoretical_Analysis.pdf`.
+ View the report in the `Theoretical_Analysis.pdf`.
 
 ---
 
@@ -30,7 +30,7 @@ Includes:
 - Function: Sort a list of dictionaries by a specific key  
 - Includes manual vs AI comparison and performance analysis.
 
-📁 See: `code/code_completion.py`
+📁 See: `code_completion.py`
 
 ---
 
@@ -61,7 +61,7 @@ Discussion on:
 - Dataset bias concerns
 - Use of tools like IBM AI Fairness 360 for mitigation
 
-📄 Included in `docs/Week4_Theoretical_Analysis.pdf`
+📄 Included in `Theoretical_Analysis.pdf`
 
 ---
 
@@ -70,7 +70,7 @@ Discussion on:
 - Proposed Tool: CodeRefine Automated Code Quality Enhancement
 - Purpose, workflow, and real-world impact explained.
 
-📄 Proposal: `docs/BonusTask_Proposal.pdf`
+📄 Proposal: `BonusTask_Proposal.pdf`
 
 ---
 
@@ -104,11 +104,11 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - Mentors and peer reviewers
 
 ---
-## Team Members
-
-warega moses waregamoses20@gmail.com
-Sheila Wambui muriukisheila33@gmail.com
-Bopaki Shaku bopakishaku@gmail.com
-Mathew Siya mattewsiyabonga@gmail.com
-Dancan Jeff danjeff254@gmail.com
-Kazeem Bello kazeembello5088@gmail.com
+👥 Team Members
+Name	           Email
+Warega Moses	waregamoses20@gmail.com
+Sheila Wambui	muriukisheila33@gmail.com
+Bopaki Shaku	bopakishaku@gmail.com
+Mathew Siya	    mattewsiyabonga@gmail.com
+Dancan Jeff	    danjeff254@gmail.com
+Kazeem Bello	kazeembello5088@gmail.com
